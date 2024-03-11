@@ -1,0 +1,5 @@
+Ligaria um interruptor, depois desligaria e ligaria o seguinte e correria para uma sala
+Seguindo a lógica as lâmpadas demoram um pouco para apagar totalmente e esquentam um pouco, caso estivesse acesa
+seria o segundo interruptor, caso estivesse apagando ou um pouco quente seria o primeiro, se não estivesse 
+apresentando nenhuma das coisas anteriores então seria o 3, no caso já eliminaria 1 interruptor, depois 
+é só acender algum dos outros 2 interruptores e ver qual corresponde a qual
